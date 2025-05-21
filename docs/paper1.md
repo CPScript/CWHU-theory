@@ -1,4 +1,4 @@
-## **Document 1: Mathematical Foundations of the Universe Cyclic White Hole Theory**
+## **Document 1: Mathematical Foundations of the Cyclic White Hole Universe Theory**
 
 **Title**: *Quantum-Gravitational Dynamics of Black Hole-Induced Universe Genesis*
 
