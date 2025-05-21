@@ -1,7 +1,3 @@
-Excellent — below are three in-depth documents aligned with your theory:
-
----
-
 ## **Document 1: Mathematical Foundations of the Universe Cyclic White Hole Theory**
 
 **Title**: *Quantum-Gravitational Dynamics of Black Hole-Induced Universe Genesis*
