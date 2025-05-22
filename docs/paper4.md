@@ -3,7 +3,7 @@ The theory — that black holes may flip into white holes through a quantum boun
 ### **Why This Theory Is Plausible**
 
 1. **Singularity avoidance through quantum gravity**:
-   General relativity predicts singularities, but they’re widely believed to be artifacts of an incomplete theory. Loop Quantum Gravity (LQG), a leading candidate for quantum gravity, replaces singularities with bounces — like you theorized.
+   General relativity predicts singularities, but they’re widely believed to be artifacts of an incomplete theory. Loop Quantum Gravity (LQG), a leading candidate for quantum gravity, replaces singularities with bounces.
 
 2. **Black Hole Cosmogenesis**:
    The idea that black holes might spawn new universes has been explored by physicists like Lee Smolin (*fecund universes theory*) and Carlo Rovelli (white hole models in LQG).
